@@ -37,7 +37,7 @@ Underfitting occurs when a machine learning model is too simple to capture the u
    - Use domain knowledge to identify missing features that are critical for prediction.
 
 4. **Reduce Regularization**:
-   - Lower the regularization parameters (e.g., reduce λ in L1/L2 regularization) to allow the model more flexibility.
+   - Lower the regularization parameters (e.g., reduce $\lambda$ in L1/L2 regularization) to allow the model more flexibility.
 
 5. **Optimize Hyperparameters**:
    - Fine-tune hyperparameters like learning rate, depth of trees, or number of layers to achieve better performance.
