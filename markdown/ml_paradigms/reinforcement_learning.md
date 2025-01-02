@@ -21,7 +21,7 @@ Reinforcement Learning (RL) is a machine learning paradigm where an agent learns
 5. **Reward (R)**:
     - A scalar feedback signal received from the environment after taking an action. Positive rewards encourage the agent to repeat an action, while negative rewards discourage it.
 
-6. **Policy (π)**:
+6. **Policy ($\pi$)**:
     - A strategy or mapping from states to actions that defines how the agent behaves. It can be deterministic or stochastic.
 
 7. **Value Function (V)**:

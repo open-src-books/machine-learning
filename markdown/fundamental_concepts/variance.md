@@ -14,7 +14,7 @@ In machine learning, **variance** refers to the sensitivity of a model to small 
 ## **3. Effects of High Variance**
 
 - **Overfitting**: The model captures noise and specific details from the training data, making it unable to generalize.
-- **Unstable Predictions**: Small changes in the training data can result in large changes in the model’s predictions.
+- **Unstable Predictions**: Small changes in the training data can result in large changes in the model's predictions.
 - **High Gap in Errors**: Training error is low, but validation and test errors are significantly higher.
 
 ## **4. Measuring Variance**
